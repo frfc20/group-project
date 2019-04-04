@@ -37,7 +37,7 @@ div#container {
 
 .btn#btn2:hover {
   color: white;
-  opacity: 0.8;
+  opacity: 1;
   background: url(https://www.tabletable.co.uk/content/dam/tabletable/2018/Main.png);
   background-size: cover;
   font-weight:bold;
@@ -45,7 +45,7 @@ div#container {
 
 .btn#btn1:hover {
   color: white;
-  opacity: 0.8;
+  opacity: 1;
   background: url(https://www.romanbaths.co.uk/sites/roman_baths/files/WALKTHROUGH_Great_Bath_1.jpg);
   background-size: cover;
   font-weight:bold;
@@ -53,7 +53,7 @@ div#container {
 
 .btn#btn3:hover {
   color: white;
-  opacity: 0.8;
+  opacity: 1;
   background: url(https://www.californiastrawberries.com/wp-content/uploads/2015/07/Must-Try-Summer-Cocktails.jpg);
   background-size: cover;
   font-weight:bold;
